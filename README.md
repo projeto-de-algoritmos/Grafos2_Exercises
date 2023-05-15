@@ -1,5 +1,5 @@
 # Vídeo da segunda entrega - Grafos 2
-
+https://www.youtube.com/watch?v=VPD2hWAJpdY&ab_channel=FernandoVargas
 # Foram feitos os exercícios no LeetCode
 
 ## 1. 743. Network Delay Time 

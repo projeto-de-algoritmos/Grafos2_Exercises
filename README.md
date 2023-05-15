@@ -2,7 +2,8 @@
 
 # Foram feitos os exercícios no LeetCode
 
-## 1. 
+## 1. 743. Network Delay Time 
+https://leetcode.com/problems/network-delay-time/
 
 ## 2. 
 

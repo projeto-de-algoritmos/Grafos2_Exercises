@@ -5,7 +5,8 @@
 ## 1. 743. Network Delay Time 
 https://leetcode.com/problems/network-delay-time/
 
-## 2. 
+## 2. 2492. Minimum Score of a Path Between Two Cities
+https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/
 
 ## 3. 
 

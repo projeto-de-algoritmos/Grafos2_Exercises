@@ -10,7 +10,7 @@ Portanto fizemos a resolução de alguns exercícios em Judges.
 
 # Apresentação
 
-[Link para a apresentação da dupla 29](https://www.youtube.com/watch?v=VPD2hWAJpdY&ab_channel=FernandoVargas) 
+[Link para a apresentação da dupla 29](https://youtu.be/qbtwo4-GwQA) 
 
 # Foram feitos os exercícios no LeetCode
 
@@ -22,7 +22,7 @@ Neste problema, é fornecida uma rede de nós numerados de 1 a n. Também são f
 
 ## [ 2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)
 
-ado um número inteiro positivo n que representa n cidades numeradas de 1 a n, e uma matriz 2D chamada roads, onde roads[i] = [ai, bi, distancei] indica que há uma estrada bidirecional entre as cidades ai e bi com uma distância igual a distancei. O grafo das cidades não necessariamente é conectado.
+Dado um número inteiro positivo n que representa n cidades numeradas de 1 a n, e uma matriz 2D chamada roads, onde roads[i] = [ai, bi, distancei] indica que há uma estrada bidirecional entre as cidades ai e bi com uma distância igual a distancei. O grafo das cidades não necessariamente é conectado.
 
 A pontuação de um caminho entre duas cidades é definida como a menor distância de uma estrada nesse caminho.
 
@@ -40,6 +40,24 @@ O custo de conectar dois pontos [xi, yi] e [xj, yj] é a distância manhattan en
 Retorne o custo mínimo para conectar todos os pontos. Todos os pontos são conectados se houver exatamente um caminho simples entre qualquer dois pontos.
 
 ![Minimum Score of a Path Between Two Citie](/images/1584.png)
+
+## [ 787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
+
+Existem n cidades conectadas por um certo número de voos. É fornecido um array chamado "flights" onde flights[i] = [fromi, toi, pricei] indica que existe um voo da cidade fromi para a cidade toi com custo pricei.
+
+Também são fornecidos três números inteiros chamados src, dst e k. Você deve retornar o preço mais barato para viajar de src para dst com no máximo k paradas. Se não houver uma rota que satisfaça essas condições, retorne -1.
+
+![Cheapest Flights Within K Stops](/images/787.jpeg)
+
+## [ 1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
+
+É fornecido um grafo ponderado não direcionado com n nós (indexados a partir de 0), representado por uma lista de arestas onde edges[i] = [a, b] é uma aresta não direcionada que conecta os nós a e b, com uma probabilidade de sucesso de atravessar essa aresta succProb[i].
+
+Dado dois nós start e end, encontre o caminho com a maior probabilidade de sucesso para ir de start a end e retorne a sua probabilidade de sucesso.
+
+Se não houver um caminho de start a end, retorne 0. A sua resposta será aceita se ela diferir da resposta correta em no máximo 1e-5.
+
+![Path with Maximum Probability](/images/1514.jpeg)
 
 # Instalação
 

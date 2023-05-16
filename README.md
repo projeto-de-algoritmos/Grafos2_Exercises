@@ -1,3 +1,5 @@
+# Introdução 
+Esse repositória foi criado para o desenvolvimento do segundo módulo de Grafos da disciplina Projeto de Algoritmos do Professor Maurício Serrano.
 # Vídeo da segunda entrega - Grafos 2
 https://www.youtube.com/watch?v=VPD2hWAJpdY&ab_channel=FernandoVargas
 # Foram feitos os exercícios no LeetCode
